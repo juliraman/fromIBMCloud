@@ -1,2 +1,2 @@
-# fromIBMCloud
-Repository for models built in R, Jupy from IBM Cloud
+# fromRStudio
+Repository for models built in RStudio with RMarkdown
